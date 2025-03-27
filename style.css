@@ -1,0 +1,40 @@
+/*Title styling*/
+.title{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    margin: 20px;
+}
+
+.image-container-group{
+    background-color: rgb(9, 255, 0);
+    display: flex;
+    margin: 20px;
+}
+.side-text-container{
+    display: flex;
+    background-color: blue;
+    margin: 10px;
+    margin-left: 30px;
+    justify-content: flex-end;
+    padding: 10px;
+}
+.bottom-text-container{
+    margin: 20px;
+}
+.all-content{
+    display: flex;
+    background-color: brown;
+}
+.image-container{
+    display:block;
+}
+.caption{
+    text-align: center;
+}
+.image{
+    width: 50vh;
+}
+.title-content{
+    font-size: 50px;
+}
