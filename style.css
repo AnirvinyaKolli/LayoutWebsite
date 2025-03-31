@@ -19,8 +19,13 @@
     justify-content: flex-end;
     padding: 10px;
 }
+.top-text-container{
+    margin: 20px;
+    background-color: chocolate;
+}
 .bottom-text-container{
     margin: 20px;
+    background-color: chocolate;
 }
 .all-content{
     display: flex;
